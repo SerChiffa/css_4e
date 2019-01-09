@@ -59,6 +59,24 @@ p {
 	clear: both;
 }
 /* пользовательские стили  */
+figure {
+	float: right;
+	margin: 15px 10px 5px 10px;
+	margin: 10px;
+}
+figure img {
+	border: 1px solid #666;
+	background-color: #CCC;
+	padding: 10px;
+}
+figcaption {
+	font: bold 1em/normal Verdana, Arial, Helvetica, sans-serif;
+	color: #333333;
+	text-align: center;
+	background-image: linear-gradient(to bottom, #e6f3ff, white);
+	border: 1px dashed #666666;
+	padding: 5px;
+}
 
 
 
